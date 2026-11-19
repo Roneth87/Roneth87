@@ -48,7 +48,7 @@ Building Skills in Software & Web Development
 - ⚡ Fun fact **I prefer building skills quietly and consistently**
 
 <div align="center">
-  <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="50" height="50" />
+  <img src="[https://techstack-generator.vercel.app/java-icon.svg](https://img.icons8.com/?size=96&id=Pd2x9GWu9ovX&format=png)" alt="icon" width="50" height="50" />
   <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="50" height="50" />
   <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="50" height="50" />
   <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon"width="50" height="50" />
